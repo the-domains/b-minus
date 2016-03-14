@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[b-minus]]></title>
-        <description><![CDATA[b-minus]]></description>
+        <title><![CDATA[home of the main guy]]></title>
+        <description><![CDATA[home of the main guy]]></description>
         <link>https://thegrid.ai/b-minus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 07:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 07:36:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/b-minus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6923d331-af64-4c80-8313-50e5a399a289.jpg">]]></description>
+            <link>https://thegrid.ai/b-minus/6a26919d-3705-486f-82b9-4a7887c1b05e/index.html</link>
+            <guid isPermaLink="false">6a26919d-3705-486f-82b9-4a7887c1b05e</guid>
+            <pubDate>Mon, 14 Mar 2016 07:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>When life slaps you in the face with a wallet...</p>]]></description>
             <link>https://thegrid.ai/b-minus/726273ad-8c7f-45be-8226-622db22d179b/index.html</link>
             <guid isPermaLink="false">726273ad-8c7f-45be-8226-622db22d179b</guid>
             <pubDate>Mon, 14 Mar 2016 07:27:32 GMT</pubDate>
