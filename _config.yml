@@ -1,4 +1,19 @@
-analytics: {}
+name: b-minus party
+favicon: null
+layout_spectrum: 0.0626
+typography_spectrum: 0.14476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -8,11 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.5
   lightness: 0.808103
-  rhythmicContrast: 0.532072
   saturation: 1
-cta: {}
-layout_spectrum: 0.0626
-name: b-minus party
-opengraph: {}
+  rhythmicContrast: 0.532072
 purpose: []
-typography_spectrum: 0.14476
