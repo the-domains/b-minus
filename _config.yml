@@ -1,0 +1,28 @@
+name: b-minus
+favicon: null
+layout_spectrum: 0.06324504502117634
+typography_spectrum: 0.13641122821718454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27903096261434257
+  lightness: 0.8081031385809183
+  saturation: 0.9432493404019624
+  rhythmicContrast: 0.7909181453287601
+purpose: []
