@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[home of the main guy]]></title>
-        <description><![CDATA[home of the main guy]]></description>
+        <title><![CDATA[b-minus party]]></title>
+        <description><![CDATA[b-minus party]]></description>
         <link>https://thegrid.ai/b-minus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 07:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 07:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/b-minus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c6d4976-7b4f-4351-aa2e-b1a47beeb94a.jpg">]]></description>
+            <link>https://thegrid.ai/b-minus/real-house-billy-briefly-la-living/index.html</link>
+            <guid isPermaLink="false">cb261707-6bdd-4097-be11-554a63e55775</guid>
+            <pubDate>Mon, 14 Mar 2016 07:59:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/417311a8-b443-421b-8534-734a73a129b8.jpg">]]></description>
